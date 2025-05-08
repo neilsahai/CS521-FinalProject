@@ -9,4 +9,4 @@ Worked on evaluating the multi-processing miner. Captured a real job from the mi
 
 
 Mei Han:
-Worked on using random nonces as an alternative to serial nonce incrementation in mining. Since this approach is already implemented as an existing solutions, my contribution focused on reviewing and validating the execution of the code in [solo_miner.py](https://github.com/iceland2k14/solominer/blob/main/solo_miner.py)
+Worked on using random nonces as an alternative to serial nonce incrementation in mining. Since this approach is already implemented as an existing solution, my contribution focused on reviewing and validating the execution of the code in [solo_miner.py](https://github.com/iceland2k14/solominer/blob/main/solo_miner.py)
